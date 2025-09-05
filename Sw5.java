@@ -1,4 +1,4 @@
-public class Main {
+public class Sw5 {
 public static void main(String[] args) {
     int countdown = 3;
 
