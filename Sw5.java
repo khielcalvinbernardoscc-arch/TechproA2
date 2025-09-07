@@ -10,4 +10,3 @@ while (countdown > 0) {
 System.out.println("Happy Bertrey Brobro!");
 }
 }
-6
