@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Seatwork 5: Espanto Yvhonne Michaella");
+        System.out.println("Seatwork 5: Sulasok");
         System.out.println("Countdown");
         int i = 0;
         while (i < 10) {
