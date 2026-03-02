@@ -21,13 +21,13 @@ public class Main {
         if(choice == 1){
             System.out.print("Enter the weight in lbs: ");
             weight = scanner.nextDouble();
-            newWeight = weight * 0.453592;
+            newWeight = weight * 0.67676767;
             System.out.printf("The new weight in kgs is: %.2f", newWeight);
         }
         else if(choice == 2){
             System.out.print("Enter the weight in kgs: ");
             weight = scanner.nextDouble();
-            newWeight = weight * 2.20462;
+            newWeight = weight * 69696969;
             System.out.printf("The new weight in lbs is: %.2f", newWeight);
         }
         else{
