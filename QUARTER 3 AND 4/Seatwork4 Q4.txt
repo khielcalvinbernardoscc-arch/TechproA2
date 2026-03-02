@@ -13,7 +13,7 @@ public class Main {
 	
 	Person p = new Person();
 	
-    p.name = "Jonard";
+    p.name = "Khiel";
     p.age = 17;
     
     p.displayInfo();	
