@@ -32,7 +32,7 @@
 ‎public class Main {
 ‎    public static void main(String[] args) {
 ‎
-‎        Product p = new Product("Gaming Mouse", 1500.5, 3);
+‎        Product p = new Product("Buttplug", 1500.5, 3);
 ‎
 ‎        System.out.println("2nd sem Seat work no. 2\n");
 ‎        System.out.println("Product Name: " + p.getProductName());
